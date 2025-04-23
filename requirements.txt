@@ -1,0 +1,5 @@
+pyspark[sql]
+pyspark[pandas_on_spark]
+plotly
+pyarrow
+jupyterlab
